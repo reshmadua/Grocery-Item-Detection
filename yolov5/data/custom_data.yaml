@@ -1,0 +1,7 @@
+train: ../dataset/images/train/
+val: ../dataset/images/val/ 
+
+# Classes
+nc: 5  # number of classes
+names: ['chips', 'chocolate', 'icecream', 'maggi', 'softdrink']  # class names
+
