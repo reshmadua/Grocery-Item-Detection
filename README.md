@@ -11,6 +11,7 @@ Each of the versions of YOLO kept improving the previous in accuracy and perform
 The dataset is obtained by scraping grocery images for five different product categories - chips, chocolate, icecream, maggi, softdrink. Each class consists of 80 images.
 The dataset is then divided into train and validation set in the ratio (85:15) with 68 images in the training set and 12 in the validation set for each of the five categories.
 Online image annotations for all 400 image were created on [makesense.ai] (https://www.makesense.ai/) in YOLOv5 supported format.
+The dataset was zipped and saved in Google Drive for further use in Google Colab.
 
 ## Network Architecture
 
