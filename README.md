@@ -32,12 +32,7 @@ The training process starts. I defined the image size (img) to be 640x640, batch
 
 ### (I) Object detection using Yolov5
 Following images show the result of YOLOv5 algorithm.
-(i) 
-![Frame(0)](https://user-images.githubusercontent.com/64592084/135299099-364f3872-44b7-4d4b-ac75-ae7b7dcd1c69.jpg)
-(ii) 
-![Frame(30)](https://user-images.githubusercontent.com/64592084/135299136-2c1f5087-186d-474d-8648-d025245867a3.jpg)
-(iii)
-![Frame(60)](https://user-images.githubusercontent.com/64592084/135299970-a5e3ba60-47d3-4da3-9776-f3e86dbf1b86.jpg)
+![Frame(0)](https://user-images.githubusercontent.com/64592084/135299099-364f3872-44b7-4d4b-ac75-ae7b7dcd1c69.jpg = 250x250) ![Frame(30)](https://user-images.githubusercontent.com/64592084/135299136-2c1f5087-186d-474d-8648-d025245867a3.jpg = 250x250)![Frame(60)](https://user-images.githubusercontent.com/64592084/135299970-a5e3ba60-47d3-4da3-9776-f3e86dbf1b86.jpg = 250x250)
 
 
 ### (II) Bill generation
