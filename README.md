@@ -15,7 +15,14 @@ Online image annotations for all 400 image were created on [makesense.ai] (https
 ## Network Architecture
 
 The network is saved as custom_data.yaml file
-![image](https://user-images.githubusercontent.com/64592084/135298157-bde3af1d-f61c-4b29-811b-ebbfb2e2c40d.png)
+```
+train: ../dataset/images/train/
+val: ../dataset/images/val/ 
+
+# Classes
+nc: 5  # number of classes
+names: ['chips', 'chocolate', 'icecream', 'maggi', 'softdrink']  # class names
+```
 
 ## Training
 
