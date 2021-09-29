@@ -1,5 +1,3 @@
-# Grocery-Item-detection
-
 # Grocery Item Detection
 
 Object detection is a computer vision task that requires object(s) to be detected, localized and classified. The model must be able to classify the object represented by the bounding box. YOLO “You Only Look Once” is a state-of-the-art real-time deep learning algorithm used for object detection, localization and classification in images and videos. This algorithm is very fast, accurate and at the forefront of object detection based projects.
