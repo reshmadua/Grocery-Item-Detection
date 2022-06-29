@@ -39,7 +39,7 @@ Following images show the result of YOLOv5 algorithm.
 
 
 ### (II) Bill generation
-<img width="203" alt="1" src="https://user-images.githubusercontent.com/64592084/176430262-6abe00f3-568f-422c-8ce1-ceaeb9a7aca8.png">
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/64592084/176430514-2a329b58-5f40-42aa-965a-171c45f8d923.png">
 
 
 ## Conclusion
