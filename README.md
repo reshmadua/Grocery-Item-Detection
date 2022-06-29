@@ -33,7 +33,7 @@ The training process starts. I defined the image size (img) to be 640x640, batch
 
 ### (I) Object detection using Yolov5
 Following images show the result of YOLOv5 algorithm.
-![Frame(0)](https://user-images.githubusercontent.com/64592084/135299099-364f3872-44b7-4d4b-ac75-ae7b7dcd1c69.jpg) 
+![Frame(0)]<img width="188" alt="image" src="https://user-images.githubusercontent.com/64592084/176429125-ae71c384-3310-43f7-8ff4-9a5119c3462b.png">
 ![Frame(30)](https://user-images.githubusercontent.com/64592084/135299136-2c1f5087-186d-474d-8648-d025245867a3.jpg)
 ![Frame(60)](https://user-images.githubusercontent.com/64592084/135299970-a5e3ba60-47d3-4da3-9776-f3e86dbf1b86.jpg)
 
