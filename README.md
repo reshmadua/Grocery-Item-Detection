@@ -37,7 +37,6 @@ Following images show the result of YOLOv5 algorithm.
 ![Frame(30)](https://user-images.githubusercontent.com/64592084/135299136-2c1f5087-186d-474d-8648-d025245867a3.jpg)
 ![Frame(60)](https://user-images.githubusercontent.com/64592084/135299970-a5e3ba60-47d3-4da3-9776-f3e86dbf1b86.jpg)
 
-
 ### (II) Bill generation
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/64592084/176430514-2a329b58-5f40-42aa-965a-171c45f8d923.png">
 
