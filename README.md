@@ -39,7 +39,8 @@ Following images show the result of YOLOv5 algorithm.
 
 
 ### (II) Bill generation
-![image](https://user-images.githubusercontent.com/64592084/135299702-c2054949-df07-42bc-aa45-2771c8ad3628.png)
+<img width="203" alt="1" src="https://user-images.githubusercontent.com/64592084/176430262-6abe00f3-568f-422c-8ce1-ceaeb9a7aca8.png">
+
 
 ## Conclusion
 A chaotic process like shopping can also be automated. AI opens plethora of opportunities for new and innovative shopping experience in the retail sector and I have tried to build an easy and effective self-checkout solution!
